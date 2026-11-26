@@ -18,7 +18,7 @@
 | **Section** | SE3-1 |
 | **University** | Riphah International University |
 | **Semester** | Fall 2026 |
-| **Course Coordinator** | Nimra Shaheen |
+| **Course Coordinator** | Ma'am Nimra Shaheen |
 | **Student** | Laiba Nisar |
 
 ---
