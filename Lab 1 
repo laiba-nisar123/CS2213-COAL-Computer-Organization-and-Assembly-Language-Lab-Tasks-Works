@@ -61,4 +61,4 @@ This lab introduces the 8086 microprocessor and the EMU8086 emulator, which is u
 
 ## 📝 Conclusion
 
-This lab provided a first practical experience with assembly programming. It built a foundation for the later labs, where registers, addressing modes, arithmetic, and control flow are explored in more detail.
+This lab provided a first practical experience with assembly programming. It built a foundation for the later labs, where registers, addressing modes, arithmetic, and control flow are explored in more detail. 
